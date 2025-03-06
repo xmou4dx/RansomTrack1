@@ -1,0 +1,4 @@
+BitcoinHeistData.csv filter=lfs diff=lfs merge=lfs -text
+BitcoinHeistData_part1.csv filter=lfs diff=lfs merge=lfs -text
+BitcoinHeistData_part2.csv filter=lfs diff=lfs merge=lfs -text
+BitcoinHeistData_part3.csv filter=lfs diff=lfs merge=lfs -text
